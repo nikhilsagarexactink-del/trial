@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "open-southeners.laravel-pint",
+        "msamgan.laravel-pint-vscode",
+        "raullg97.laravel-pint-linter"
+    ]
+}
